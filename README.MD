@@ -1,4 +1,4 @@
-# API de Produtos - Integração PHP + MySQL
+# API de Produtos - Integração PHP + PostgreSQL
 
 Projeto simples de backend em PHP puro para cadastro e listagem de produtos, utilizando PDO para conexão com o banco de dados.
 
